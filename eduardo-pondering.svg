@@ -1,0 +1,1116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 800 450"
+   width="800"
+   height="450"
+   role="img"
+   aria-labelledby="title desc"
+   shape-rendering="crispEdges"
+   version="1.1"
+   id="svg122"
+   sodipodi:docname="eduardo-pondering.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview122"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.3822222"
+     inkscape:cx="216.1847"
+     inkscape:cy="172.94776"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg122" />
+  <title
+     id="title">Eduardo observa a cidade do último andar da NovaBank</title>
+  <desc
+     id="desc">Cena executiva noturna em pixel art. Eduardo aparece de costas no terço esquerdo, fora de foco, enquanto uma janela panorâmica revela o horizonte e as linhas da cidade vistas do topo.</desc>
+  <defs
+     id="defs10">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#windows-warm"
+       id="pattern123"
+       patternTransform="translate(-59.365308,15.138154)" />
+    <linearGradient
+       id="sky-blue-hour"
+       x1="0"
+       y1="0"
+       x2="0"
+       y2="1">
+      <stop
+         offset="0"
+         stop-color="#071419"
+         id="stop1" />
+      <stop
+         offset=".32"
+         stop-color="#0b2029"
+         id="stop2" />
+      <stop
+         offset=".64"
+         stop-color="#102f3b"
+         id="stop3" />
+      <stop
+         offset=".84"
+         stop-color="#173b4a"
+         id="stop4" />
+      <stop
+         offset="1"
+         stop-color="#203f4a"
+         id="stop5" />
+    </linearGradient>
+    <clipPath
+       id="panorama-clip">
+      <polygon
+         points="126,29 781,29 781,338 126,357"
+         id="polygon5" />
+    </clipPath>
+    <pattern
+       id="windows-cool"
+       width="18"
+       height="16"
+       patternUnits="userSpaceOnUse">
+      <rect
+         width="18"
+         height="16"
+         fill="#071419"
+         id="rect5" />
+      <rect
+         x="3"
+         y="3"
+         width="6"
+         height="4"
+         fill="#416f87"
+         opacity=".52"
+         id="rect6" />
+      <rect
+         x="11"
+         y="3"
+         width="4"
+         height="4"
+         fill="#173b4a"
+         id="rect7" />
+    </pattern>
+    <pattern
+       id="windows-warm"
+       width="16"
+       height="15"
+       patternUnits="userSpaceOnUse">
+      <rect
+         width="16"
+         height="15"
+         fill="#08161c"
+         id="rect8" />
+      <rect
+         x="3"
+         y="3"
+         width="5"
+         height="4"
+         fill="#a88a55"
+         opacity=".65"
+         id="rect9" />
+      <rect
+         x="10"
+         y="3"
+         width="3"
+         height="4"
+         fill="#416f87"
+         opacity=".35"
+         id="rect10" />
+    </pattern>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#sky-blue-hour"
+       id="linearGradient122"
+       x1="89.16344"
+       y1="40.980922"
+       x2="89.16344"
+       y2="504.48928"
+       gradientTransform="scale(1.4131352,0.70764635)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#sky-blue-hour"
+       id="linearGradient123"
+       x1="89.299257"
+       y1="40.918594"
+       x2="89.299257"
+       y2="505.13298"
+       gradientTransform="scale(1.410986,0.70872426)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <!-- SALA EXECUTIVA / MOLDURA ESCURA -->
+  <rect
+     width="800"
+     height="450"
+     fill="#030608"
+     id="rect11" />
+  <rect
+     x="0"
+     y="0"
+     width="800"
+     height="18"
+     fill="#020405"
+     id="rect12" />
+  <rect
+     x="0"
+     y="18"
+     width="112"
+     height="350"
+     fill="#071419"
+     id="rect13" />
+  <rect
+     x="112"
+     y="18"
+     width="680"
+     height="350"
+     fill="#050b0e"
+     id="rect14" />
+  <!-- JANELA PANORÂMICA, ELEMENTO CENTRAL -->
+  <g
+     id="panoramic-window"
+     transform="translate(-36.694399,-18.454173)">
+    <polygon
+       points="792,347 116,369 116,18 792,18 "
+       fill="#020405"
+       stroke="#35434a"
+       stroke-width="6"
+       id="polygon14" />
+    <polygon
+       points="781,338 126,357 126,29 781,29 "
+       fill="url(#sky-blue-hour)"
+       id="polygon15"
+       style="fill:url(#linearGradient122)" />
+    <g
+       clip-path="url(#panorama-clip)"
+       id="city-panorama">
+      <!-- céu e faixa do horizonte -->
+      <rect
+         x="126"
+         y="29"
+         width="655"
+         height="329"
+         fill="url(#sky-blue-hour)"
+         id="rect15"
+         style="fill:url(#linearGradient123)" />
+      <!-- skyline distante -->
+      <g
+         id="distant-city"
+         opacity="0.72">
+        <path
+           d="m 126,200 v -40 h 18 v -15 h 13 v 39 h 13 v -58 h 13 v 28 h 13 v 20 h 16 v -35 h 16 v 41 h 16 v -61 h 16 v 48 h 15 v -16 h 14 v 29 h 15 v -47 h 14 v 29 h 16 v -20 h 16 v 39 h 16 v -70 h 16 v 40 h 16 v -23 h 13 v 47 h 14 v -31 h 17 v -23 h 16 v 51 h 16 v -33 h 14 v 39 h 17 v -62 h 14 v 46 h 15 v -24 h 16 v 37 h 17 v -47 h 16 v 29 h 16 v -45 h 16 v 55 h 17 v -23 h 16 v 33 h 16 v -49 h 16 v 31 h 17 v -21 h 16 v 37 h 16 v -58 h 15 v 38 h 16 v -19 h 21 v 99 H 126 Z"
+           fill="#102f3b"
+           id="path15" />
+        <path
+           d="M 126,202 H 781"
+           stroke="#d3b66f"
+           opacity="0.48"
+           id="path16" />
+        <g
+           fill="#d3b66f"
+           opacity="0.55"
+           id="g22">
+          <rect
+             x="177"
+             y="143"
+             width="3"
+             height="3"
+             id="rect16" />
+          <rect
+             x="251"
+             y="137"
+             width="3"
+             height="3"
+             id="rect17" />
+          <rect
+             x="374"
+             y="129"
+             width="3"
+             height="3"
+             id="rect18" />
+          <rect
+             x="451"
+             y="142"
+             width="3"
+             height="3"
+             id="rect19" />
+          <rect
+             x="512"
+             y="132"
+             width="3"
+             height="3"
+             id="rect20" />
+          <rect
+             x="607"
+             y="131"
+             width="3"
+             height="3"
+             id="rect21" />
+          <rect
+             x="735"
+             y="134"
+             width="3"
+             height="3"
+             id="rect22" />
+        </g>
+      </g>
+      <!-- via elevada distante: paralela à janela, com tráfego mínimo e discreto -->
+      <g
+         id="distant-road-traffic">
+        <path
+           d="m 376,294 270,-6 4,15 -270,6 z"
+           fill="#061116"
+           opacity="0.76"
+           id="path22" />
+        <path
+           d="m 379,297 269,-6"
+           fill="none"
+           stroke="#294650"
+           stroke-width="1.5"
+           opacity="0.52"
+           id="path23" />
+        <path
+           d="m 381,305 268,-6"
+           fill="none"
+           stroke="#17313b"
+           stroke-width="1"
+           opacity="0.55"
+           id="path24" />
+        <!-- cidade baixa e apoios sob a via: elimina o vazio e mantém a leitura urbana -->
+        <g
+           id="central-lower-city">
+          <path
+             d="m 414,306 1,51 m 76,-53 1,51 m 85,-53 2,50"
+             fill="none"
+             stroke="#07171e"
+             stroke-width="5"
+             opacity="0.82"
+             id="path25" />
+          <path
+             d="m 414,306 1,51 m 76,-53 1,51 m 85,-53 2,50"
+             fill="none"
+             stroke="#17313b"
+             stroke-width="1"
+             opacity="0.48"
+             id="path26" />
+          <polygon
+             points="427,358 382,359 382,333 427,326 "
+             fill="#0a1d25"
+             id="polygon26" />
+          <polygon
+             points="471,357 423,358 423,322 471,318 "
+             fill="#102a34"
+             id="polygon27" />
+          <polygon
+             points="517,355 468,357 468,334 517,329 "
+             fill="#0a2028"
+             id="polygon28" />
+          <polygon
+             points="565,353 512,355 512,320 565,316 "
+             fill="#0d2630"
+             id="polygon29" />
+          <polygon
+             points="610,351 560,353 560,331 610,324 "
+             fill="#0a2028"
+             id="polygon30" />
+          <polygon
+             points="650,350 606,351 606,318 650,312 "
+             fill="#0d242d"
+             id="polygon31" />
+          <path
+             d="m 382,333 45,-7 m -4,-4 48,-4 m -3,16 49,-5 m -5,-9 53,-4 m -5,15 50,-7 m -4,-6 44,-6"
+             fill="none"
+             stroke="#31505c"
+             stroke-width="1"
+             opacity="0.42"
+             id="path31" />
+          <g
+             fill="#416f87"
+             opacity="0.38"
+             id="g38">
+            <rect
+               x="434"
+               y="332"
+               width="5"
+               height="3"
+               id="rect31" />
+            <rect
+               x="446"
+               y="331"
+               width="5"
+               height="3"
+               id="rect32" />
+            <rect
+               x="479"
+               y="340"
+               width="4"
+               height="3"
+               id="rect33" />
+            <rect
+               x="490"
+               y="339"
+               width="5"
+               height="3"
+               id="rect34" />
+            <rect
+               x="526"
+               y="329"
+               width="5"
+               height="3"
+               id="rect35" />
+            <rect
+               x="539"
+               y="328"
+               width="4"
+               height="3"
+               id="rect36" />
+            <rect
+               x="574"
+               y="338"
+               width="5"
+               height="3"
+               id="rect37" />
+            <rect
+               x="587"
+               y="336"
+               width="4"
+               height="3"
+               id="rect38" />
+          </g>
+          <g
+             fill="#a88a55"
+             opacity="0.32"
+             id="g41">
+            <rect
+               x="455"
+               y="343"
+               width="4"
+               height="3"
+               id="rect39" />
+            <rect
+               x="548"
+               y="340"
+               width="4"
+               height="3"
+               id="rect40" />
+            <rect
+               x="619"
+               y="327"
+               width="4"
+               height="3"
+               id="rect41" />
+          </g>
+          <rect
+             x="530"
+             y="311"
+             width="13"
+             height="5"
+             fill="#08161c"
+             stroke="#294650"
+             stroke-width="1"
+             opacity="0.9"
+             id="rect42" />
+        </g>
+        <!-- faróis seguindo para a direita -->
+        <g
+           opacity="0.58"
+           id="g44">
+          <rect
+             x="390"
+             y="298"
+             width="4"
+             height="2"
+             rx="0.5"
+             fill="#d3b66f"
+             id="rect43" />
+          <rect
+             x="396"
+             y="298"
+             width="3"
+             height="2"
+             rx="0.5"
+             fill="#ffcf66"
+             opacity="0.72"
+             id="rect44" />
+          <animateTransform
+             attributeName="transform"
+             type="translate"
+             values="0 0;226 -5"
+             dur="15s"
+             repeatCount="indefinite" />
+          <animate
+             attributeName="opacity"
+             values="0;.58;.58;0"
+             keyTimes="0;.12;.86;1"
+             dur="15s"
+             repeatCount="indefinite" />
+        </g>
+        <!-- lanternas seguindo para a esquerda -->
+        <g
+           opacity="0.42"
+           id="g46">
+          <rect
+             x="614"
+             y="302"
+             width="3"
+             height="2"
+             rx="0.5"
+             fill="#a88a55"
+             id="rect45" />
+          <rect
+             x="608"
+             y="302"
+             width="3"
+             height="2"
+             rx="0.5"
+             fill="#7b5748"
+             id="rect46" />
+          <animateTransform
+             attributeName="transform"
+             type="translate"
+             values="0 0;-206 5"
+             dur="19s"
+             begin="-7s"
+             repeatCount="indefinite" />
+          <animate
+             attributeName="opacity"
+             values="0;.42;.42;0"
+             keyTimes="0;.14;.84;1"
+             dur="19s"
+             begin="-7s"
+             repeatCount="indefinite" />
+        </g>
+        <!-- um terceiro veículo mais raro, quase imperceptível -->
+        <g
+           opacity="0.34"
+           id="g48">
+          <rect
+             x="421"
+             y="300"
+             width="3"
+             height="1.5"
+             rx="0.5"
+             fill="#a1c8d2"
+             id="rect47" />
+          <rect
+             x="426"
+             y="300"
+             width="2"
+             height="1.5"
+             rx="0.5"
+             fill="#79afc3"
+             id="rect48" />
+          <animateTransform
+             attributeName="transform"
+             type="translate"
+             values="0 0;177 -4"
+             dur="24s"
+             begin="-13s"
+             repeatCount="indefinite" />
+          <animate
+             attributeName="opacity"
+             values="0;0;.34;.34;0;0"
+             keyTimes="0;.22;.3;.68;.76;1"
+             dur="24s"
+             begin="-13s"
+             repeatCount="indefinite" />
+        </g>
+      </g>
+      <!-- edifícios médios em camadas -->
+      <g
+         id="middle-city">
+        <polygon
+           points="192,352 126,357 126,218 192,197 "
+           fill="#0a1d25"
+           id="polygon48" />
+        <polygon
+           points="184,351 133,355 133,223 184,208 "
+           fill="url(#windows-cool)"
+           opacity="0.85"
+           id="polygon49" />
+        <polygon
+           points="273,349 205,352 205,225 273,198 "
+           fill="#08161c"
+           id="polygon50" />
+        <polygon
+           points="213,351 213,228 265,210 265,348 "
+           fill="url(#windows-warm)"
+           opacity="0.7"
+           id="polygon51"
+           style="fill:url(#pattern123)" />
+        <polygon
+           points="781,338 690,341 690,204 781,187 "
+           fill="#08161c"
+           id="polygon52" />
+        <polygon
+           points="773,337 699,340 699,211 773,199 "
+           fill="url(#windows-cool)"
+           opacity="0.85"
+           id="polygon53" />
+        <polygon
+           points="678,342 622,344 622,236 678,213 "
+           fill="#0a1d25"
+           id="polygon54" />
+        <polygon
+           points="670,341 630,343 630,239 670,224 "
+           fill="url(#windows-warm)"
+           opacity="0.62"
+           id="polygon55" />
+      </g>
+      <!-- prédios próximos enquadrando o vale visual -->
+      <g
+         id="near-city">
+        <polygon
+           points="425,450 265,450 275,240 392,205 "
+           fill="#071419"
+           id="polygon56" />
+        <polygon
+           points="407,450 278,450 286,247 382,219 "
+           fill="url(#windows-cool)"
+           opacity="0.9"
+           id="polygon57" />
+        <path
+           d="m 389,210 35,240"
+           stroke="#416f87"
+           stroke-width="4"
+           opacity="0.5"
+           id="path57" />
+        <polygon
+           points="713,450 596,450 602,245 682,230 "
+           fill="#071419"
+           id="polygon58" />
+        <polygon
+           points="699,450 608,450 612,251 674,241 "
+           fill="url(#windows-warm)"
+           opacity="0.72"
+           id="polygon59" />
+        <path
+           d="m 604,246 -8,204"
+           stroke="#173b4a"
+           stroke-width="4"
+           id="path59" />
+      </g>
+    </g>
+    <!-- caixilhos -->
+    <polygon
+       points="127,357 116,369 116,18 127,29 "
+       fill="#35434a"
+       id="polygon60" />
+    <polygon
+       points="792,347 781,338 781,29 792,18 "
+       fill="#35434a"
+       id="polygon61" />
+    <polygon
+       points="458,347 448,347 448,24 458,24 "
+       fill="#263940"
+       opacity="0.85"
+       id="polygon62" />
+    <polygon
+       points="781,29 126,29 116,18 792,18 "
+       fill="#35434a"
+       id="polygon63" />
+    <!-- caixilho inferior interrompido atrás de Eduardo para não atravessar sua silhueta -->
+    <polygon
+       points="154,367 116,369 116,357 154,356 "
+       fill="#35434a"
+       id="polygon64" />
+    <polygon
+       points="792,347 323,362 323,351 781,338 "
+       fill="#35434a"
+       id="polygon65" />
+  </g>
+  <!-- EDUARDO, TERÇO ESQUERDO, SEM ROSTO EM EVIDÊNCIA -->
+  <g
+     id="eduardo-character"
+     transform="matrix(0.82,0,0,0.82,1.8937338,55.926133)">
+    <g
+       id="eduardo-breath"
+       transform="translate(1.0859508,-0.72396717)">
+      <animateTransform
+         attributeName="transform"
+         type="translate"
+         values="0 0;0 -1;0 0"
+         dur="6.4s"
+         repeatCount="indefinite" />
+      <!-- cadeira executiva atrás do corpo -->
+      <g
+         id="executive-chair">
+        <path
+           d="m 172,286 q 2,-40 30,-51 h 74 q 28,9 30,51 l 12,124 H 160 Z"
+           fill="#050b0e"
+           stroke="#35434a"
+           stroke-width="4"
+           id="path65" />
+        <path
+           d="m 146,340 h 20 l 14,33 m 152,-33 h -20 l -14,33"
+           fill="none"
+           stroke="#173b4a"
+           stroke-width="4"
+           opacity="0.72"
+           id="path66" />
+        <path
+           d="M 162,405 H 316"
+           stroke="#102f3b"
+           stroke-width="5"
+           id="path67" />
+      </g>
+      <!-- tronco contínuo: ombros largos, queda natural e cintura definida -->
+      <path
+         d="m 170,232 q 13,-16 34,-24 l 31,-9 q 8,-2 16,1 l 21,8 q 22,5 35,20 l -8,31 -5,64 q -3,13 -17,18 -19,5 -38,5 -20,0 -38,-4 -13,-3 -18,-13 l -5,-67 z"
+         fill="#15313b"
+         id="path68" />
+      <path
+         d="m 170.36198,228.38016 c 8.66667,-10.66666 18.91405,-10.70302 32.91405,-16.03636 L 220,258 l -1,62 c -3.33333,8.66667 -9,15 -17,19 -7.33333,-1.33333 -13.66667,-4.66667 -19,-10 l -5,-67 z"
+         fill="#173b4a"
+         id="path69"
+         sodipodi:nodetypes="cccccccc" />
+      <path
+         d="m 272,208 c 14.66667,3.33333 24.52342,5.6562 33.19008,15.6562 L 299,259 l -5,64 c -2.66667,8 -8.33333,14 -17,18 -7.33333,-2.66667 -13.33333,-7.66667 -18,-15 l -1,-66 z"
+         fill="#10242e"
+         id="path70"
+         sodipodi:nodetypes="cccccccc" />
+      <path
+         d="m 183,329 q 21,12 56,17 l -1,46 h -60 z"
+         fill="#102631"
+         id="path71" />
+      <path
+         d="m 239,346 q 35,-4 55,-23 l 6,69 h -62 z"
+         fill="#0d1d25"
+         id="path72" />
+      <path
+         d="m 239,346 -1,46"
+         fill="none"
+         stroke="#173b4a"
+         stroke-width="1.5"
+         opacity="0.42"
+         id="path73" />
+      <!-- camisa, gola, gravata e lapelas em planos separados -->
+      <polygon
+         points="239,270 222,248 216,205 239,218 261,206 255,248 "
+         fill="#73736a"
+         id="polygon73" />
+      <polygon
+         points="228,242 208,216 216,205 239,218 "
+         fill="#c2c4b4"
+         id="polygon74" />
+      <polygon
+         points="250,241 269,216 261,206 239,218 "
+         fill="#858e89"
+         id="polygon75" />
+      <polygon
+         points="239,286 195,266 184,210 208,207 228,242 "
+         fill="#102f3b"
+         id="polygon76"
+         transform="matrix(0.76306528,0,0,1.6139975,56.627396,-123.47764)" />
+      <polygon
+         points="239,286 250,241 269,210 293,215 279,265 "
+         fill="#08161c"
+         id="polygon77"
+         transform="matrix(0.9128558,0,0,1.5620271,19.379529,-118.38768)" />
+      <polygon
+         points="239,270 232,251 236,219 243,219 247,251 "
+         fill="#a88a55"
+         opacity="0.82"
+         id="polygon78"
+         transform="matrix(1,0,0,2.1498302,0,-251.81282)" />
+      <path
+         d="m 208,216 20,26 m 41,-26 -19,25"
+         stroke="#a1c8d2"
+         stroke-width="1.5"
+         opacity="0.38"
+         id="path79" />
+      <!-- cabeça em 3/4 de costas: rosto oculto e cabelo legível -->
+      <path
+         id="polygon79"
+         transform="matrix(0.9095041,0,0,1.0603306,18.461163,-6.3950433)"
+         style="fill:#69584b"
+         d="m 254,106 23.194,27.1933 -2.36801,31.97584 -3.45797,9.93062 -13.84598,18.85192 L 218,185 l -14,-27 4,-31 17,-19 z"
+         sodipodi:nodetypes="cccccccccc" />
+      <path
+         id="polygon80"
+         transform="matrix(0.917731,0,0,1.0415391,16.124723,-3.8631363)"
+         style="fill:#071419;stroke-width:3.36786;stroke-dasharray:none"
+         d="m 240,114 -20,9 -10.02783,18.56717 L 202,154 199.90469,130.35677 203.67344,121.6614 210,106 l 25,-13 25.8167,3.219626 16.02783,17.567174 1.23897,21.04264 -6.87237,-8.39019 L 263,118 Z"
+         sodipodi:nodetypes="cccccccccccccc" />
+      <polygon
+         points="238,141 235,160 243,177 232,190 218,185 204,159 204,145 216,124 231,118 "
+         fill="#0b2631"
+         opacity="0.82"
+         id="polygon81"
+         transform="matrix(1.0371265,0,0,1.0050275,-7.5738104,-0.59325088)" />
+      <polygon
+         points="239,218 216,206 217,184 242,196 262,184 259,207 "
+         fill="#66563e"
+         id="polygon82" />
+      <path
+         id="polygon83"
+         transform="translate(-3.9818195,6.153721)"
+         style="opacity:0.52;fill:#a88a55"
+         d="m 262,145 4.93223,3.72397 -0.10413,12.08595 L 261,158 Z"
+         sodipodi:nodetypes="ccccc" />
+      <!-- pose sentada: braços mais estreitos, cotovelos baixos e antebraços apoiados -->
+      <path
+         d="m 170.46423,218.71387 c -14.47646,97.94446 4.93055,33.4679 -9.17499,37.4913 0.64849,8.30469 -1.44038,21.34276 -4.14617,32.00943 L 157,307 c -2.12764,13.61984 -4.87866,21.1146 13,29 6,2.66667 11.33333,1 16,-5 l -8,-29 c -1.33333,-10 -0.66667,-21.33333 2,-34 l 5,-19 z"
+         fill="#173744"
+         id="path83"
+         sodipodi:nodetypes="cccccccccc" />
+      <path
+         d="m 306,228 c 8.66667,3.33333 7.73168,11.41928 12.39834,22.08595 1.10414,10.0573 2.8281,14.98953 3.72397,25.29421 L 323,309 c 0.26614,10.19457 -6,19.33333 -12,28 -6,2 -7.68485,-4.70579 -13.01818,-10.70579 L 302,301 c 1.33333,-10 0.66667,-21.33333 -2,-34 l -4,-20 z"
+         fill="#102631"
+         id="path84"
+         sodipodi:nodetypes="cccscccccc" />
+      <!-- antebraços mais longos e espessos: cotovelo, volume e punho contínuos até a mesa -->
+      <path
+         d="m 156.74215,327.08595 c 10,-3.33333 22.59118,-1.75262 31.25785,6.91405 8.66667,11.33333 16.33333,23 23,35 l 7,19 c 0,6 -3.33333,11 -10,15 l -11,-5 c -4.66667,-8.66667 -9,-16.66667 -13,-24 l -18,-17 c -6,-6 -6.01818,-17.37245 -8.01818,-24.70579 z"
+         fill="#173744"
+         id="path85"
+         sodipodi:nodetypes="cccccccccc" />
+      <path
+         d="m 318,327 c -9.33333,-3.33333 -20.14325,1.53389 -13.24462,-9.65124 -8,10.66667 -15,21.66667 -21,33 L 264,386 c 0.66667,6.66667 4.33333,11.66667 11,15 l 12,-6 c 3.33333,-8.66667 6.66667,-16.66667 10,-24 l 17,-17 c 0.20826,-0.20826 2.42699,-11.63802 3.76033,-17.63802 z"
+         fill="#102631"
+         id="path86"
+         sodipodi:nodetypes="cccccccccc" />
+      <path
+         d="m 157,322 q 12,3 22,-4 m 143,4 q -12,3 -22,-4"
+         fill="none"
+         stroke="#416f87"
+         stroke-width="2.2"
+         opacity="0.58"
+         id="path87" />
+      <path
+         d="m 160,336 q 12,-1 22,8 l 16,20 m 120,-27 q -12,-2 -22,7 l -15,19"
+         fill="none"
+         stroke="#416f87"
+         stroke-width="1.8"
+         opacity="0.42"
+         id="path88" />
+      <path
+         d="m 171,354 q 12,9 19,22 m 117,-23 q -11,9 -17,22"
+         fill="none"
+         stroke="#0b2029"
+         stroke-width="2"
+         opacity="0.55"
+         id="path89" />
+      <!-- rim light da janela -->
+      <path
+         d="m 204.57785,118.119 2.65762,-10.07845 9.34837,-7.29858 11.46535,-7.211731"
+         fill="none"
+         stroke="#d3b66f"
+         stroke-width="2.64946"
+         id="path90"
+         sodipodi:nodetypes="cccc"
+         style="opacity:0.81;stroke-width:1.43049;stroke-miterlimit:3.7;stroke-dasharray:34.3317, 1.43049;stroke-dashoffset:0" />
+      <path
+         d="m 202,154 3.44794,11.24462 3.90154,8.99086 8.65052,9.97278"
+         fill="none"
+         stroke="#ffcf66"
+         stroke-width="2"
+         opacity="0.55"
+         id="path91"
+         sodipodi:nodetypes="cccc" />
+      <path
+         d="m 157.48308,287.58419 c 2.12798,-12.9837 6.87409,-62.64592 15.54076,-65.31258 7.33333,-10 24.5157,-7.06625 38.5157,-12.39958"
+         fill="none"
+         stroke="#d3b66f"
+         stroke-width="3"
+         opacity="0.72"
+         id="path92"
+         sodipodi:nodetypes="ccc" />
+      <path
+         d="m 267.6562,209.80992 c 12.21922,2.71212 26.15268,1.18863 32.43478,8.19412 1.85682,2.07063 6.05972,4.44998 6.27101,6.51072 4.68485,5.50523 16.91614,61.71368 18.32495,71.2944"
+         fill="none"
+         stroke="#79afc3"
+         stroke-width="3"
+         opacity="0.72"
+         id="path93"
+         sodipodi:nodetypes="cscc" />
+      <path
+         d="m 157,307 c -1.98182,11.08595 0.10413,17.41929 0.10413,20.08595 L 188,334 m 135,-25 c -2,10 -3.66667,16 -5,18 l -21.57025,4.8281"
+         fill="none"
+         stroke="#416f87"
+         stroke-width="2"
+         opacity="0.46"
+         id="path94"
+         sodipodi:nodetypes="cccccc" />
+    </g>
+  </g>
+  <!-- INTERIOR EM PRIMEIRO PLANO / MESA E DOCUMENTO -->
+  <g
+     id="office-foreground">
+    <polygon
+       points="0,366 800,347 800,450 0,450"
+       fill="#030608"
+       id="polygon94" />
+    <polygon
+       points="0,366 800,347 800,365 0,389"
+       fill="#2b383e"
+       id="polygon95" />
+    <path
+       d="M0 366L184 362M300 359L800 347"
+       fill="none"
+       stroke="#647077"
+       stroke-width="1.5"
+       opacity=".42"
+       id="path95" />
+    <!-- punhos e mãos acima do tampo: deixam inequívoco que Eduardo se apoia na mesa -->
+    <g
+       id="eduardo-hands-on-desk"
+       transform="translate(-49.533582,-0.83955223)">
+      <path
+         d="m 191,350 h 16 l 7,7 -5,8 -12,-1 -8,-7 z"
+         fill="#858e89"
+         id="path96" />
+      <path
+         d="m 288.83823,353.07779 16,-1 7,7 -5,8 -12,-1 -8,-7 z"
+         fill="#73736a"
+         id="path97" />
+      <path
+         d="m 204,354 q 7,-2 13,1 l 9,4 q 5,3 2,8 l -7,4 -16,-2 q -7,-1 -9,-6 1,-5 8,-9 z"
+         fill="#69584b"
+         id="path98" />
+      <path
+         d="m 205,355 q 7,-2 12,1 l 7,3 q -8,4 -23,2 l -3,-2 z"
+         fill="#76644e"
+         opacity="0.62"
+         id="path99" />
+      <path
+         d="m 280.46671,360.23336 q 7,-2 13,0 l 9,4 q 5,3 2,8 l -7,4 -16,-1 q -7,-1 -9,-6 1,-5 8,-9 z"
+         fill="#66563e"
+         id="path100" />
+      <path
+         d="m 285.32546,357.96827 q 6,-2 12,0 l 7,3 q -8,4 -23,3 l -3,-2 z"
+         fill="#725f4a"
+         opacity="0.55"
+         id="path101" />
+      <path
+         d="m 203,363 c 7.33333,-2 15,-1.66667 23,1 m 51.98258,-0.70317 c 4.20622,-1.05155 6.63147,-0.36292 10.83769,-0.3087 3.79378,0.0489 0.16691,1.14121 3.96069,2.08966"
+         fill="none"
+         stroke="#a88a55"
+         stroke-width="1.1"
+         opacity="0.4"
+         id="path102"
+         sodipodi:nodetypes="cccsc" />
+    </g>
+    <polygon
+       points="0,389 800,365 800,450 0,450"
+       fill="#071419"
+       opacity=".9"
+       id="polygon102" />
+    <path
+       d="M0 418L800 390"
+       stroke="#102f3b"
+       stroke-width="2"
+       id="path103" />
+    <!-- mesa baixa do escritório, reforça a perspectiva -->
+    <polygon
+       points="430,376 800,364 800,450 476,450"
+       fill="#08161c"
+       id="polygon103" />
+    <polygon
+       points="430,376 800,364 800,380 443,394"
+       fill="#173b4a"
+       id="polygon104" />
+    <path
+       d="M443 394L800 380"
+       stroke="#416f87"
+       opacity=".45"
+       id="path104" />
+    <!-- pasta da reunião -->
+    <g
+       id="board-folder"
+       transform="rotate(-3,213.53013,4951.8814)">
+      <polygon
+         points="713,434 553,438 533,389 686,389 "
+         fill="#050b0e"
+         stroke="#35434a"
+         stroke-width="2"
+         id="polygon105" />
+      <polygon
+         points="694,426 560,430 548,395 678,395 "
+         fill="#0b2631"
+         id="polygon106" />
+      <rect
+         x="568"
+         y="403"
+         width="39"
+         height="4"
+         fill="#d3b66f"
+         id="rect106" />
+      <rect
+         x="568"
+         y="411"
+         width="83"
+         height="3"
+         fill="#416f87"
+         id="rect107" />
+      <rect
+         x="568"
+         y="419"
+         width="59"
+         height="3"
+         fill="#35434a"
+         id="rect108" />
+      <text
+         x="614"
+         y="407"
+         fill="#a1a89f"
+         font-family="ui-monospace, Consolas, monospace"
+         font-size="7px"
+         letter-spacing="1"
+         id="text108">09:00</text>
+    </g>
+    <!-- copo e reflexo dourado -->
+    <g
+       id="executive-glass"
+       transform="translate(-693.98045,-35.025532)">
+      <polygon
+         points="772,386 767,433 742,434 738,387 "
+         fill="#08161c"
+         stroke="#416f87"
+         stroke-width="2"
+         id="polygon108" />
+      <polygon
+         points="768,414 766,430 744,431 743,415 "
+         fill="#a88a55"
+         opacity="0.48"
+         id="polygon109" />
+      <rect
+         x="741"
+         y="385"
+         width="33"
+         height="3"
+         fill="#a1c8d2"
+         opacity="0.45"
+         id="rect109" />
+    </g>
+  </g>
+  <!-- PONTOS DE VIDA DA CIDADE -->
+  <g
+     id="window-lights">
+    <rect
+       x="136.56812"
+       y="207.72679"
+       width="4"
+       height="4"
+       fill="#ffcf66"
+       id="rect110">
+      <animate
+         attributeName="opacity"
+         values=".35;1;.35"
+         dur="5.5s"
+         repeatCount="indefinite" />
+    </rect>
+    <rect
+       x="343.66547"
+       y="224.48856"
+       width="4"
+       height="4"
+       fill="#65d5cf"
+       id="rect111">
+      <animate
+         attributeName="opacity"
+         values="1;.28;1"
+         dur="7s"
+         repeatCount="indefinite" />
+    </rect>
+    <rect
+       x="643.6571"
+       y="284.06348"
+       width="4"
+       height="4"
+       fill="#d3b66f"
+       id="rect112">
+      <animate
+         attributeName="opacity"
+         values=".3;1;.3"
+         dur="6.2s"
+         begin="-2s"
+         repeatCount="indefinite" />
+    </rect>
+    <rect
+       x="712.565"
+       y="223.56502"
+       width="4"
+       height="4"
+       fill="#79afc3"
+       id="rect113" />
+  </g>
+  <!-- VINHETA CINEMATOGRÁFICA E TEXTURA EM PIXELS -->
+  <rect
+     x="0"
+     y="0"
+     width="800"
+     height="12"
+     fill="#020405"
+     id="rect114" />
+  <rect
+     x="0"
+     y="438"
+     width="800"
+     height="12"
+     fill="#020405"
+     id="rect115" />
+  <rect
+     x="0"
+     y="12"
+     width="18"
+     height="426"
+     fill="#020405"
+     opacity=".72"
+     id="rect116" />
+  <rect
+     x="782"
+     y="12"
+     width="18"
+     height="426"
+     fill="#020405"
+     opacity=".62"
+     id="rect117" />
+  <g
+     fill="#a1c8d2"
+     opacity=".045"
+     id="g122">
+    <rect
+       x="82"
+       y="75"
+       width="2"
+       height="2"
+       id="rect118" />
+    <rect
+       x="404"
+       y="49"
+       width="2"
+       height="2"
+       id="rect119" />
+    <rect
+       x="576"
+       y="78"
+       width="2"
+       height="2"
+       id="rect120" />
+    <rect
+       x="752"
+       y="310"
+       width="2"
+       height="2"
+       id="rect121" />
+    <rect
+       x="98"
+       y="334"
+       width="2"
+       height="2"
+       id="rect122" />
+  </g>
+</svg>
