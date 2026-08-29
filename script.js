@@ -1614,10 +1614,18 @@ async function startOpening() {
       "street-motion",
       () => {
         [
+          // Estes 4 primeiros vão receber "10"
           "wide-person-left-near",
           "wide-person-left-far",
+          "approved-person-middle-right",
           "wide-person-right-far",
-          "wide-person-right-near"
+          "wide-person-right-near",
+          
+          // Estes 2 últimos vão receber "-10"
+          "natural-person-far-left",
+          "natural-person-near-left",
+          "natural-person-entrance-right"         
+          
         ].forEach((id, index) => {
           animate(
             id,
@@ -1625,7 +1633,7 @@ async function startOpening() {
               { transform: "translateX(0)" },
               {
                 transform: `translateX(${
-                  index < 2 ? 10 : -10
+                  index < 5 ? 10 : -10
                 }px)`
               }
             ],
@@ -1636,6 +1644,27 @@ async function startOpening() {
             }
           );
         });
+        /*
+        [
+          "approved-person-middle-left",
+          "approved-person-middle-right"
+        ].forEach((id) => {
+          animate(
+            id,
+            [
+              // Posição inicial: sem alteração
+              { transform: "translate(0px, 0px) scale(1)" }, 
+              
+              // Posição final: desce 8 pixels na tela e cresce 3% (1.03)
+              { transform: "translate(0px, 8px) scale(.9)" } 
+            ],
+            {
+              duration: 4300,
+              fill: "forwards",
+              easing: "ease-in-out"
+            }
+          );
+        });*/      
       }
     );
 
