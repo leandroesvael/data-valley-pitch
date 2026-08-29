@@ -1042,7 +1042,7 @@ async function loadIncidentSvg() {
 
   try {
     const response = await fetch(`./${svgFile}`, {
-      cache: "no-store"
+      cache: "default"
     });
 
     if (!response.ok) {
